@@ -17,7 +17,7 @@
           <mxGeometry x="318" y="56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jd2U8UISsn73TqWEcC3-5" value="关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
-          <mxGeometry x="523" y="56" width="120" height="60" as="geometry" />
+          <mxGeometry x="534" y="54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Jd2U8UISsn73TqWEcC3-7" value="后管系统后台接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
           <mxGeometry x="310" y="17" width="60" height="30" as="geometry" />
