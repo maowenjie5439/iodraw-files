@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15" y="531" width="746" height="197" as="geometry" />
-        </mxCell>
         <mxCell id="-Jd2U8UISsn73TqWEcC3-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="19" y="-5" width="804" height="506" as="geometry" />
         </mxCell>
@@ -64,17 +61,23 @@
         <mxCell id="-Jd2U8UISsn73TqWEcC3-2" value="手机银行后台接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="336" y="14" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-3" value="查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="142" y="581" width="120" height="60" as="geometry" />
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-9" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="29" y="617" width="746" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-4" value="开通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="347" y="581" width="120" height="60" as="geometry" />
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
+          <mxGeometry width="746" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-5" value="关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="552" y="581" width="120" height="60" as="geometry" />
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-3" value="查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
+          <mxGeometry x="113" y="56" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-7" value="后管系统后台接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339" y="542" width="60" height="30" as="geometry" />
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-4" value="开通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
+          <mxGeometry x="318" y="56" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-5" value="关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
+          <mxGeometry x="523" y="56" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-7" value="后管系统后台接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Jd2U8UISsn73TqWEcC3-9">
+          <mxGeometry x="310" y="17" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
