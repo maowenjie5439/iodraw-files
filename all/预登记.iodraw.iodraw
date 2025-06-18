@@ -73,8 +73,8 @@
         <mxCell id="-Jd2U8UISsn73TqWEcC3-5" value="关闭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="552" y="581" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-7" value="后管系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="336" y="535" width="60" height="30" as="geometry" />
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-7" value="后管系统后台接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="542" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
