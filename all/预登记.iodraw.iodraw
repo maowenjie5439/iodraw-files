@@ -64,8 +64,8 @@
         <mxCell id="-Jd2U8UISsn73TqWEcC3-3" value="查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Jd2U8UISsn73TqWEcC3-4" value="查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="392" y="589" width="120" height="60" as="geometry" />
+        <mxCell id="-Jd2U8UISsn73TqWEcC3-4" value="开通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="376" y="584" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
